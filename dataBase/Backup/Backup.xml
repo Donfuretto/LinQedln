@@ -1,0 +1,87 @@
+<root>
+ <USER TYPEA="3" UID="DavidTessaro@gmail.com">
+  <PINFO PROV="Via" INTE="Informatica,Cucina,Panini" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="DavidTessaro@gmail.com" LNAME="Tessaro" NAME="David" SET="Settore" LAV="Lavoro" LING="Inglese,Italiano"/>
+  <FORMAZIONE SECTOR="Informatica" VALUTATION="21" DESCRICTION="ci" ACTIVITY="" TITLE="Diploma" AWARD="prova"/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Creator" PERIODO="2014-2015" TITOLO="Unipd" LOCALITA="Padova"/>
+  </ESPERIENZE>
+  <NET CONTACT="SUNU@cavallogoloso.it Kikko@nuovoTest.com DavidTessaro@gmail.com " NCONTACT="3"/>
+ </USER>
+ <USER TYPEA="1" UID="ElisaM@gmail.com">
+  <PINFO PROV="Antonio" INTE="sassi, gatti, jojo" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="ElisaM@gmail.com" LNAME="Mimmotta" NAME="Elisa" SET="Settore" LAV="Lavoro" LING="Italiano, Trentino"/>
+  <FORMAZIONE SECTOR="Chimico" VALUTATION="23" DESCRICTION="" ACTIVITY="nessuna" TITLE="Diploma" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="SUNU@cavallogoloso.it " NCONTACT="1"/>
+ </USER>
+ <USER TYPEA="2" UID="Giggi@gmail.com">
+  <PINFO PROV="Lovello" INTE="pesca,cavalli" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="Giggi@gmail.com" LNAME="hio" NAME="Giggi" SET="Settore" LAV="Lavoro" LING="Russo"/>
+  <FORMAZIONE SECTOR="ITIS" VALUTATION="edilizia" DESCRICTION="" ACTIVITY="52" TITLE="Diploma" AWARD="Persona"/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Marinaio" PERIODO="1955-1954" TITOLO="MarinaVienna" LOCALITA="Vienna"/>
+   <ESPERIENZA AZIENDA="Pirata" PERIODO="1955-1965" TITOLO="PiratiVienna" LOCALITA="Vienna"/>
+  </ESPERIENZE>
+  <NET CONTACT="ElisaM@gmail.com MurettoLolllO@hotmail.com TestRam@gmail.com " NCONTACT="3"/>
+ </USER>
+ <USER TYPEA="3" UID="Kikko@nuovoTest.com">
+  <PINFO PROV="Kikko@nuovoTest.com" INTE="" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/loqt.jpg" MAIL="Kikko@nuovoTest.com" LNAME="Tessaro" NAME="David" SET="" LAV="" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="ElisaM@gmail.com Kikko@nuovoTest.com DavidTessaro@gmail.com " NCONTACT="3"/>
+ </USER>
+ <USER TYPEA="3" UID="MakioMummo@gmail.com">
+  <PINFO PROV="Via" INTE="Pescare" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="MakioMummo@gmail.com" LNAME="Mummo" NAME="Mario" SET="8" LAV="Nuoto" LING=""/>
+  <FORMAZIONE SECTOR="scentifico,Laurea" VALUTATION="in" DESCRICTION="Scientifico" ACTIVITY="Chimica" TITLE="Diploma" AWARD="64,110"/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Cameriere" PERIODO="2014-2015" TITOLO="Bargatto" LOCALITA="Padova"/>
+  </ESPERIENZE>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="1" UID="MarcoNovelli@gmail.com">
+  <PINFO PROV="Maibe" INTE="" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="MarcoNovelli@gmail.com" LNAME="Tessaro" NAME="Mario" SET="Settore" LAV="Lavoro" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Disegnatore" PERIODO="1980-1990" TITOLO="DC-comincs" LOCALITA="Padova"/>
+  </ESPERIENZE>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="3" UID="MarcoRosso@gmail.com">
+  <PINFO PROV="" INTE="" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/loqt.jpg" MAIL="MarcoRosso@gmail.com" LNAME="" NAME="" SET="" LAV="" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="1" UID="MurettoLolllO@hotmail.com">
+  <PINFO PROV="Via" INTE="sport,animali" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="MurettoLolllO@hotmail.com" LNAME="Rossi" NAME="Mario" SET="padova" LAV="Sanitario" LING="Italiano,Russo"/>
+  <FORMAZIONE SECTOR="Nessuno" VALUTATION="0" DESCRICTION="Non" ACTIVITY="0" TITLE="Nessuno" AWARD="faccio"/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Designer" PERIODO="3Q" TITOLO="Kukkuro" LOCALITA="Padova"/>
+  </ESPERIENZE>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="1" UID="SUNU@gmail.it">
+  <PINFO PROV="SUNU@cavallogoloso.it" INTE="cani leui" IMG="/server0/0/2012/dtessaro/Desktop/LinQedln/dataBase/ImgProfile/Icon-user.png" MAIL="SUNU@gmail.it" LNAME="Cavallo" NAME="Marco" SET="Pon" LAV="Tutto" LING="Enlf russo canadese lunganiano"/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE>
+   <ESPERIENZA AZIENDA="Sarto" PERIODO="Padova" TITOLO="Nonna" LOCALITA="spa"/>
+  </ESPERIENZE>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="1" UID="Test@gmail.com">
+  <PINFO PROV="" INTE="" IMG="C:/Users/Donfuretto/Documents/ProgettiQt/ProgettoP2/dataBase/ImgProfile/loqt.jpg" MAIL="Test@gmail.com" LNAME="" NAME="" SET="" LAV="" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="1" UID="test2@gmail.com">
+  <PINFO PROV="" INTE="" IMG="C:/Users/Donfuretto/Documents/ProgettiQt/ProgettoP2/dataBase/ImgProfile/Icon-user.png" MAIL="test2@gmail.com" LNAME="" NAME="" SET="" LAV="" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+ <USER TYPEA="3" UID="test3@gmail.com">
+  <PINFO PROV="" INTE="" IMG="C:/Users/Donfuretto/Documents/ProgettiQt/ProgettoP2/dataBase/ImgProfile/Icon-user.png" MAIL="test3@gmail.com" LNAME="" NAME="" SET="" LAV="" LING=""/>
+  <FORMAZIONE SECTOR="" VALUTATION="" DESCRICTION="" ACTIVITY="" TITLE="" AWARD=""/>
+  <ESPERIENZE/>
+  <NET CONTACT="" NCONTACT="0"/>
+ </USER>
+</root>
